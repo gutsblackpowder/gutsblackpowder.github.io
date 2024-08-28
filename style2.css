@@ -1,0 +1,53 @@
+p {
+	margin:0;
+	padding:0;
+}
+
+body {
+    background-color: #14141e;
+	/*background-color:#3f2c28; */
+	padding: 0;
+	margin: 0;
+    margin-top: -120px;
+	font-family:Arial, Helvetica, sans-serif;
+}
+
+div {
+    display: block;
+    unicode-bidi: isolate;
+}
+
+#mainContainer {
+    padding: 0;
+    margin: 0;
+}
+
+#pageContainer {
+	width:880px;
+	text-align:left;
+	font-family: 'Times New Roman', Helvetica, sans-serif;
+	font-size:14px;
+	padding:0;
+	margin:0;
+	line-height:18px;
+	position:relative;
+}
+
+#soon_background {
+    background-image: url(snow_preview.png);
+    background-repeat: no-repeat;
+    width: 1100px;
+    height: 987px;
+    margin-left: 10px;
+}
+
+#content {
+    color: #c9c9c9;
+    width: 320px;
+    text-align: center;
+    font-weight: bold;
+    line-height: 0.7;
+    font-size: 20px;
+    padding-top: 300px;
+    padding-left: 250px;
+}
